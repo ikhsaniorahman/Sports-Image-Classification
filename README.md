@@ -27,7 +27,3 @@ Dataset -> https://www.kaggle.com/gpiosenka/sports-classification
 ## Conclusion
 
 This project serves as a practical tool for automatically detecting and classifying sports images. By leveraging advanced computer vision techniques, it provides a reliable solution to categorize sports images accurately. 🏅🔍
-
-## Disclaimer
-
-This repository was created as part of the project for the Hacktiv8 Data Science Bootcamp in 2021. 📅 As such, there may be limitations or outdated methods used in this project. Your understanding and patience are appreciated. 🙏
